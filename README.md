@@ -4,12 +4,6 @@ on this project I took a two stage opamp. Sweeping the M of the diff pair, activ
 
 
 (some parameters to sweep the l, more steps on C miller, R, and of course try with other Ibias
-
-
-
-
-
-
 9/9 - 0s - loss: 0.1570 - mean_squared_error: 0.1570 - val_loss: 0.1329 - val_mean_squared_error: 0.1329 - 38ms/epoch - 4ms/step
 Epoch 398/400
 9/9 - 0s - loss: 0.1766 - mean_squared_error: 0.1766 - val_loss: 0.1176 - val_mean_squared_error: 0.1176 - 56ms/epoch - 6ms/step
