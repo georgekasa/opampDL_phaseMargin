@@ -66,7 +66,7 @@ model.add(tf.keras.layers.Dense(128, activation='relu', kernel_initializer = 'he
 #model.add(tf.keras.layers.Dropout(0.05))
 model.add(tf.keras.layers.Dense(256, activation='relu', kernel_initializer = 'he_normal'))
 model.add(tf.keras.layers.Dropout(0.2))
-model.add(tf.keras.layers.Dense(1, activation='relu', bias_initializer=tf.keras.initializers.Constant(np.mean(y_train))))
+model.add(tf.keras.layers.Dense(1, activation='linear', bias_initializer=tf.keras.initializers.Constant(np.mean(y_train))))
 
 
 OPTIMIZER = keras.optimizers.Adam(learning_rate=0.001)
