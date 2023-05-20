@@ -7,12 +7,15 @@ on this project I took a two stage opamp. Sweeping the M of the diff pair, activ
 
 9/9 - 0s - loss: 0.1570 - mean_squared_error: 0.1570 - val_loss: 0.1329 - val_mean_squared_error: 0.1329 - 38ms/epoch - 4ms/step
 Epoch 398/400
+
 9/9 - 0s - loss: 0.1766 - mean_squared_error: 0.1766 - val_loss: 0.1176 - val_mean_squared_error: 0.1176 - 56ms/epoch - 6ms/step
 Epoch 399/400
+
 9/9 - 0s - loss: 0.1836 - mean_squared_error: 0.1836 - val_loss: 0.0798 - val_mean_squared_error: 0.0798 - 35ms/epoch - 4ms/step
 Epoch 400/400
+
 9/9 - 0s - loss: 0.1475 - mean_squared_error: 0.1475 - val_loss: 0.0939 - val_mean_squared_error: 0.0939 - 33ms/epoch - 4ms/step
-5/5 [==============================] - 0s 633us/step
+
 
 Prediction:  63.999733  true value:  phaseMargin    64.162903
 Name: 411, dtype: float32
