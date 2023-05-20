@@ -38,6 +38,6 @@ Prediction:  77.04142  true value:  phaseMargin    77.155296
 Prediction:  65.44346  true value:  phaseMargin    65.222198
 
 
-Name: 1573, dtype: float32![Figure_1](https://github.com/georgekasa/opampDL_phaseMargin/assets/79354220/5266bb32-d764-4b6c-954c-e3e54eb98ffe)
+[Figure_1](https://github.com/georgekasa/opampDL_phaseMargin/assets/79354220/5266bb32-d764-4b6c-954c-e3e54eb98ffe)
 
 
