@@ -18,23 +18,23 @@ Epoch 400/400
 
 
 Prediction:  63.999733  true value:  phaseMargin    64.162903
-Name: 411, dtype: float32
+
 Prediction:  65.15351  true value:  phaseMargin    64.819298
-Name: 666, dtype: float32
+
 Prediction:  67.10218  true value:  phaseMargin    67.406097
-Name: 417, dtype: float32
+
 Prediction:  70.18443  true value:  phaseMargin    69.774002
-Name: 1035, dtype: float32
+
 Prediction:  66.137085  true value:  phaseMargin    66.153198
-Name: 1431, dtype: float32
+
 Prediction:  66.04474  true value:  phaseMargin    66.522301
-Name: 262, dtype: float32
+
 Prediction:  75.371315  true value:  phaseMargin    75.875198
-Name: 613, dtype: float32
+
 Prediction:  66.6088  true value:  phaseMargin    66.206596
-Name: 1572, dtype: float32
+
 Prediction:  77.04142  true value:  phaseMargin    77.155296
-Name: 756, dtype: float32
+
 Prediction:  65.44346  true value:  phaseMargin    65.222198
 
 
